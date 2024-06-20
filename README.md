@@ -1,4 +1,4 @@
-# Fullstack Task Manager (MERN)
+# Task Manager App (MERN)
 
 # Overview
 
